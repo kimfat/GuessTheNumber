@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="startNewEasyGameBtn">Новая легкая игра</string>
+    <string name="startNewNormalGameBtn">Новая обычная игра</string>
+    <string name="startNewHardGameBtn">Новая сложная игра</string>
+    <string name="exitBtn">Выход</string>
+    <string name="enterBtn">Введите число</string>
+</resources>
